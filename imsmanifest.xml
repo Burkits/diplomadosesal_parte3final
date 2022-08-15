@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5osF9tdwZVH_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+			<general>
+				<title>
+					<langstring xml:lang="x-none">DIPLOMADO DE ATENCIÓN EN VIOLENCIA DOMÉSTICA</langstring>
+				</title>
+				<description>
+					<langstring xml:lang="x-none">DIPLOMADO DE ATENCION EN VIOLENCIA DOMESTICA</langstring>
+				</description>
+				<keyword>
+				  	<langstring xml:lang="x-none">VIOLENCIA DOMÉSTICA</langstring>
+        			</keyword>
+			</general>
+			<lifecycle>
+				<version>
+					<langstring xml:lang="x-none">1</langstring>
+				</version>
+				<status>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">Final</langstring>
+					</value>
+				</status>
+			</lifecycle>
+			<metametadata>
+				<metadatascheme>ADL SCORM 1.2</metadatascheme>
+			</metametadata>
+			<educational>
+				<typicallearningtime>
+					<datetime>PT0H0M0S</datetime>
+				</typicallearningtime>
+			</educational>
+			<rights>
+				<cost>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">yes</langstring>
+					</value>
+				</cost>
+				<copyrightandotherrestrictions>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">yes</langstring>
+					</value>
+				</copyrightandotherrestrictions>
+			</rights>
+		</lom>
+	</metadata>
+	<organizations default="DIPLOMADO_DE_ATENCIÓN_EN_VIOLENCIA_DOMÉSTICA_ORG">
+		<organization identifier="DIPLOMADO_DE_ATENCIÓN_EN_VIOLENCIA_DOMÉSTICA_ORG">
+			<title>DIPLOMADO DE ATENCIÓN EN VIOLENCIA DOMÉSTICA</title>
+			<item identifier="DIPLOMADO_DE_ATENCIÓN_EN_VIOLENCIA_DOMÉSTICA_SCO" isvisible="true" identifierref="__5osF9tdwZVH_course_id_RES">
+				<title>DIPLOMADO DE ATENCIÓN EN VIOLENCIA DOMÉSTICA</title>
+				<adlcp:masteryscore>60</adlcp:masteryscore>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+	    <resource identifier="__5osF9tdwZVH_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+		<file href="story_content/thumbnail.jpg"/>
+<file href="story_content/video_6EhyMH9TDfp_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_6Hrr7X6lTIA_video_6EhyMH9TDfp_22_48_1920x1080.jpg"/>
+<file href="mobile/5kNJf3XWl0t_80_P_142_0_938_341_DX548_DY548_CX330_CY120.png"/>
+<file href="mobile/5XVIDdYZNXr_80_DX476_DY476_CX238_CY167.png"/>
+<file href="mobile/5sdTfAYEG5k_80_DX472_DY472_CX166_CY167.png"/>
+<file href="mobile/5XVIDdYZNXr_80_DX476_DY476_CX256_CY180.png"/>
+<file href="mobile/6bznDlAkRFa_80_DX428_DY428_CX279_CY279.png"/>
+<file href="mobile/5gQsfw3rv6K_80_DX456_DY456_CX278_CY342.png"/>
+<file href="mobile/6U7cnjvFWe7_80_DX428_DY428_CX321_CY321.png"/>
+<file href="mobile/6bznDlAkRFa_80_DX428_DY428_CX321_CY321.png"/>
+<file href="mobile/6U7cnjvFWe7_80_DX428_DY428_CX279_CY279.png"/>
+<file href="mobile/6LvS7Jw8vQy_80_DX372_DY372_CX279_CY279.png"/>
+<file href="story_content/video_6n0knUXfj1R_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_5cNp68NmNvV_video_6n0knUXfj1R_22_48_1920x1080.jpg"/>
+<file href="story_content/video_6IYijJ492XA_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_5uMErVkdCmp_video_6IYijJ492XA_22_48_1920x1080.jpg"/>
+<file href="story_content/video_5amj0N2CVlG_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_5l2Hp9ILGMG_video_5amj0N2CVlG_22_48_1920x1080.jpg"/>
+<file href="story_content/video_6YUqsjsEJb1_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_6U5ZEiemG2f_video_6YUqsjsEJb1_22_48_1920x1080.jpg"/>
+<file href="story_content/video_5YEZpV878nv_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_6Pz9sG1mCcx_video_5YEZpV878nv_22_48_1920x1080.jpg"/>
+<file href="story_content/video_61YnZiADIRR_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_6VIzb3hXI37_video_61YnZiADIRR_22_48_1920x1080.jpg"/>
+<file href="story_content/video_6F0jQNyKI8N_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_6aClbl9mGdH_video_6F0jQNyKI8N_22_48_1920x1080.jpg"/>
+<file href="story_content/video_5qRkomdA3eN_22_48_1920x1080.mp4"/>
+<file href="mobile/poster_6SN2FQDtgmk_video_5qRkomdA3eN_22_48_1920x1080.jpg"/>
+<file href="story_content/5k729QjiSrP_44100_48_0.mp3"/>
+<file href="story_content/6UaCYmMtpaj_44100_48_0.mp3"/>
+<file href="mobile/6ebBhfooxbM_80_DX2124_DY2124_CX1062_CY768.jpg"/>
+<file href="mobile/poster_6HmSf0WYFN3_video_6EhyMH9TDfp_22_48_1920x1080.jpg"/>
+<file href="meta.xml"/>
+<file href="story_content/user.js"/>
+<file href="html5/data/css/output.min.css"/>
+<file href="html5/data/js/5e40sxsvTZO.js"/>
+<file href="html5/data/js/5eAptDndXI2.js"/>
+<file href="html5/data/js/5i3fmToipQk.js"/>
+<file href="html5/data/js/5i6gTK3ZdRh.js"/>
+<file href="html5/data/js/5jHfEkZksHM.js"/>
+<file href="html5/data/js/5jmSW2az5xQ.js"/>
+<file href="html5/data/js/5jn351Vei2q.js"/>
+<file href="html5/data/js/5lsfDCFIRjq.js"/>
+<file href="html5/data/js/5qWc9TZGdFu.js"/>
+<file href="html5/data/js/5WQEPFfQb2K.js"/>
+<file href="html5/data/js/5zHKoaM7C9Q.js"/>
+<file href="html5/data/js/5zWQCJiXpgW.js"/>
+<file href="html5/data/js/61lsXcu2KZF.js"/>
+<file href="html5/data/js/61puBKoun9B.js"/>
+<file href="html5/data/js/61tSv0GKsg4.js"/>
+<file href="html5/data/js/61W7gUXOCBP.js"/>
+<file href="html5/data/js/63yZcl9YAEU.js"/>
+<file href="html5/data/js/642qrPTXjop.js"/>
+<file href="html5/data/js/69illkOtogZ.js"/>
+<file href="html5/data/js/6ABCBzFBXIs.js"/>
+<file href="html5/data/js/6AIV8Zo3oQF.js"/>
+<file href="html5/data/js/6aXSrEib0p5.js"/>
+<file href="html5/data/js/6b03nWEQXVK.js"/>
+<file href="html5/data/js/6BUNgr2qXxh.js"/>
+<file href="html5/data/js/6DYZIMMfDTx.js"/>
+<file href="html5/data/js/6G8aOhjU6Qm.js"/>
+<file href="html5/data/js/6jt3WdHt9NT.js"/>
+<file href="html5/data/js/6JTil4C0D26.js"/>
+<file href="html5/data/js/6Jz4LQfLl9c.js"/>
+<file href="html5/data/js/6KaXJVTxnzG.js"/>
+<file href="html5/data/js/6LZXwRqLRGC.js"/>
+<file href="html5/data/js/6n4bNXLoMQB.js"/>
+<file href="html5/data/js/6NA6fI3U187.js"/>
+<file href="html5/data/js/6QCAUYfKJ0G.js"/>
+<file href="html5/data/js/6TnxWtmth84.js"/>
+<file href="html5/data/js/6UXYSf42xeR.js"/>
+<file href="html5/data/js/6VEjTWOnpnT.js"/>
+<file href="html5/data/js/6Y7I6ZLHTfQ.js"/>
+<file href="html5/data/js/data.js"/>
+<file href="html5/data/js/frame.js"/>
+<file href="html5/data/js/paths.js"/>
+<file href="html5/lib/scripts/bootstrapper.min.js"/>
+<file href="html5/lib/scripts/frame.desktop.min.js"/>
+<file href="html5/lib/scripts/frame.mobile.min.js"/>
+<file href="html5/lib/scripts/slides.min.js"/>
+<file href="html5/lib/stylesheets/desktop.min.css"/>
+<file href="html5/lib/stylesheets/mobile.min.css"/>
+<file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff"/>
+<file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff"/>
+<file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff"/>
+<file href="analytics-frame.html"/>
+<file href="story.html"/>
+<file href="index_lms.html"/>
+<file href="lms/AICCComm.html"/>
+<file href="lms/blank.html"/>
+<file href="lms/browsersniff.js"/>
+<file href="lms/goodbye.html"/>
+<file href="lms/LICENSE.txt"/>
+<file href="lms/scormdriver.js"/>
+	    </resource>
+	</resources>
+</manifest>
